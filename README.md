@@ -12,8 +12,6 @@
 pip install pytonik_time_ago
 
 ```
-# How to use:
-
 ## Import Module
 ```
 from pytonik_time_ago.timeago import timeago
