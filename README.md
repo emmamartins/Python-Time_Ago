@@ -24,7 +24,7 @@ from pytonik_time_ago.timeago import timeago
 timeago("2019-11-25 18:07:10").ago
 ```
 
-set date and time format 
+### format 
 
 ```
 timeago("19-11-2019 18:07:10", '%d-%m-%Y %H:%M:%S').ago
