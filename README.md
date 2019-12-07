@@ -1,7 +1,7 @@
 [![Build Status](https://img.shields.io/pypi/v/pytonik_time_ago)](https://pypi.python.org/pypi/pytonik_time_ago)
 [![Downloads](https://img.shields.io/pypi/dm/pytonik_time_ago)](https://pypi.python.org/pypi/pytonik_time_ago/)
 [![Wheel](https://img.shields.io/pypi/wheel/pytonik_time_ago.svg)](https://pypi.python.org/pypi/pytonik_time_ago)
-[![Python Version](https://img.shields.io/pypi/pyversions/pytonik_time_ago)](https://pypi.python.org/pypi/pytonik-agent)
+[![Python Version](https://img.shields.io/pypi/pyversions/pytonik_time_ago)](https://pypi.python.org/pypi/pytonik_time_ago)
 [![License](https://img.shields.io/pypi/l/pytonik_time_ago)](https://pypi.python.org/pypi/pytonik_time_ago)
 
 # pytonik Time Ago Module
